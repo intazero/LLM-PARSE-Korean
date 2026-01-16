@@ -428,7 +428,7 @@ st.markdown(
 
 init_session_state()
 
-st.title("규칙 기반 한국어 문장 분석기 with LLM")
+st.title("LLM 협업형 규칙 기반 한국어 문장 분해 플랫폼")
 
 # 사이드바 설정
 st.sidebar.header("설정")
