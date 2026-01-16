@@ -1,0 +1,8 @@
+streamlit
+
+# OpenAI GPT
+openai>=1.0.0
+
+# Google Gemini
+google-genai
+google-api-core
